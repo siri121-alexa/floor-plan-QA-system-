@@ -135,14 +135,3 @@ The main design considerations include:
 - User inputs should be validated.
 - Sensitive user data should be handled securely.
 
-## Demo
-
-The deployed application can be accessed here:
-
-https://plan-rooms-ai-1--7jmdxtqr.preview.emergentagent.com/
-
-A demonstration video will be added here.
-
-## License
-
-This project is developed for educational and demonstration purposes. Add an appropriate license before distributing the source code.
